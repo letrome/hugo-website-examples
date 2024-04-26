@@ -1,0 +1,4 @@
+[submodule "themes/stack-examples"]
+    path = themes/stack-examples
+    url = https://github.com/letrome/stack-examples.git
+
