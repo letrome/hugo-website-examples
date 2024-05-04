@@ -3,7 +3,7 @@ title = "The Graceful World of Sheep: Embracing the Elegance of Ewes"
 date = "2024-04-25"
 tags = ["Sheep", "Livestock", "Animals", "Nature", "Farming"]
 image = "cover.jpg"
-category = ["Animals"]
+categories = ["Mammals"]
 slug = "graceful-world-sheep-embracing-elegance-ewes"
 +++
 

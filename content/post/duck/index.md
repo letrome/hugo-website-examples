@@ -2,7 +2,7 @@
 title = "All About Ducks: A Fascinating Look into the World of Quackers"
 slug = "all-about-ducks-fascinating-look"
 date = "2024-04-25"
-category = ["Animals"]
+categories = ["Birds"]
 tags = ["Ducks", "Birds", "Nature", "Wildlife"]
 image = "cover.jpg"
 +++

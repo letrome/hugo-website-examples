@@ -3,7 +3,7 @@ title = "The Enchanting World of Pigs: Unraveling the Charms of Oinkers"
 date = "2024-04-25"
 tags = ["Pigs", "Livestock", "Animals", "Nature", "Farming"]
 image = "cover.jpg"
-category = ["Animals"]
+categories = ["Mammals"]
 slug = "enchanting-world-pigs-unraveling-charms"
 +++
 

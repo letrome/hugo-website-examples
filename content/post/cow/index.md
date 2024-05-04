@@ -2,7 +2,7 @@
 title = "The Majestic World of Cows: Exploring the Beauty of Bovines"
 date = "2024-04-25"
 tags = ["Cows", "Livestock", "Animals", "Nature", "Farming"]
-category = ["Animals"]
+categories = ["Mammals"]
 slug = "majestic-world-cows-exploring-beauty-bovines"
 image = "cover.jpg"
 +++

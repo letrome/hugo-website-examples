@@ -3,7 +3,7 @@ title = "The Magnificent World of Horses: Celebrating the Majesty of Equines"
 date = "2024-04-25"
 tags = ["Horses", "Animals", "Nature", "Equestrian", "Farming"]
 image = "cover.jpg"
-category = ["Animals"]
+categories = ["Mammals"]
 slug = "magnificent-world-horses-celebrating-majesty-equines"
 +++
 

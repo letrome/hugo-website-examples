@@ -3,7 +3,7 @@ title = "The Wonderful World of Chickens: Exploring the Charm of Cluckers"
 date = "2024-04-25"
 tags = ["Chickens", "Poultry", "Animals", "Nature", "Farming"]
 image = "cover.jpg"
-category = ["Animals"]
+categories = ["Birds"]
 slug = "wonderful-world-chickens-exploring-charm"
 +++
 
